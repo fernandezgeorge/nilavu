@@ -59,7 +59,7 @@ We are glad to help if you have questions, or request for new features..
 
 	
 # License
-
+# Copywrite@George
 |                      |                                          |
 |:---------------------|:-----------------------------------------|
 | **Author:**          | Rajthilak (<rajthilak@megam.co.in>)
